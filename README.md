@@ -1,5 +1,15 @@
-# Deck of cards
- # Deck of Cards Simulation and Games
+# Deck of Cards Simulation and Games
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Problem Explanation](#problem-explanation)
+  - [Project Details](#project-details)
+  - [Class Definition](#class-definition)
+  - [Shuffle Function](#shuffle-function)
+  - [Display Function](#display-function)
+- [Algorithm](#algorithm)
 
 ## Overview
 
@@ -61,4 +71,3 @@ This project involves the design and analysis of algorithms, specifically focusi
 2. Use a for loop to traverse the index I to all 52 cards.
 3. If 13 cards are provided for all players, display them.
 4. Stop.
-
